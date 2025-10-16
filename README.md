@@ -1,4 +1,3 @@
-# Blog-card-view
 # Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -31,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here is the solution on frontend mentor](https://www.frontendmentor.io/profile/adhamesaam/solutions)
+- Live Site URL: [Here is the github repositry](https://github.com/adhamesaam/Blog-card-view/tree/main)
 
 ## My process
 
